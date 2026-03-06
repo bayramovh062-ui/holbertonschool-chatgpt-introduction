@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                                                                    factorial.py                                                                                                              
 #!/usr/bin/python3
 import sys
 
